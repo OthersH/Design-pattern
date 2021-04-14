@@ -19,6 +19,5 @@
 
 这类模式介绍如何将对象和类组成较大的结构，并同时保持结构的灵活和高效。
 
-![image-20210413193702908](https://gitpicgo.oss-cn-beijing.aliyuncs.com/picgo/image-20210413193702908.pnggitpicgo.oss-cn-beijing.aliyuncs.com)
+![image-20210413193702908](https://gitpicgo.oss-cn-beijing.aliyuncs.com/picgo/image-20210413193702908.png)
 
-![image-20210413194915175](README.assets/image-20210413194915175.png)
