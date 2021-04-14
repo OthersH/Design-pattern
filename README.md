@@ -13,11 +13,19 @@
 
 这类模式提供创建对象的机制，能够提升已有代码的灵活性和可用性
 
-![image-20210413181805726](https://raw.githubusercontent.com/OthersH/pic/master/image-20210413181805726.png)
+![image-20210414141421195](README.assets/image-20210414141421195.png)
 
 ## 结构型模式
 
 这类模式介绍如何将对象和类组成较大的结构，并同时保持结构的灵活和高效。
 
-![image-20210413193702908](https://gitpicgo.oss-cn-beijing.aliyuncs.com/picgo/image-20210413193702908.png)
+![image-20210414141451290](README.assets/image-20210414141451290.png)
+
+## 行为模型
+
+这类模式负责对象间的高效沟通和职责委派
+
+![image-20210414144009995](README.assets/image-20210414144009995.png)
+
+![image-20210414144031784](README.assets/image-20210414144031784.png)
 
